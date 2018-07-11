@@ -10,7 +10,7 @@ I would rate this article as a 4 because the data was presented in a cohesive wa
 
 What was it?
 
-The reporter is trying to explain to readers how the vast majority of U.S. adults do not get enough exercise daily. The author uses percentages and statistics in the headline and leads with those facts in the opening sentence to grabd the reader's attention right away. 
+The reporter is trying to explain to readers how the vast majority of U.S. adults do not get enough exercise daily. The author uses percentages and statistics in the headline and leads with those facts in the opening sentence to grab the reader's attention right away. 
 
 Was it in the headline?
 
@@ -26,7 +26,7 @@ No, I don't believe that this was the most efficient way to navigate because you
 
 Can you suggest ways to improve navigation?
 
-I would improve navigation by adding a chart that shows the epercentage of overweight adults in the U.S. I would also include a line chart that would compare lack of exercise and health/wellness level. I believe thatthis would be more effective in persuading the reader that more exercise is needed to improve health in the U.S.
+I would improve navigation by adding a chart that shows the percentage of overweight adults in the U.S. I would also include a line chart that would compare or find a correlation between a lack of exercise and health/wellness level. I believe that this would be more effective in persuading the reader that more exercise is needed to improve health in the U.S.
 
 Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
 
@@ -52,7 +52,7 @@ Objective: Quality
 
 Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
 
-I would rank this article as a 2 because the data was presented in a cohesive and well-organized manner, but more data charts were needed to explain the main points of the article. I believe that this was executed in a poor degree of quality because the data is explained well in writing, but the charts and graph would be most relevant for explaining this information to the readers clearly.
+I would rank this article as a 2 because the data was presented in a cohesive and well-organized manner, but more data charts were needed to explain the main points of the article. I believe that this was executed in a poor degree of quality because the data is explained well in writing, but the charts and graph would be more relevant for explaining this information to the readers clearly.
 
 Explain what they did well and areas where improvements could be made.
 
@@ -60,7 +60,7 @@ The author did well with explaining her critiques of the current status of healt
 
 Consider some tasks a data story must do well: (present, compare, organize, correlate) Did this graphic accomplish all tasks?
 
-This graphic did not accomplish any of those goals because there was ample opportunity to insert graphicc such as charts or graphs to explain the information to the reader, but they were not used.
+This graphic did not accomplish any of those goals because there was ample opportunity to insert graphics such as charts or graphs to explain the information to the reader, but they were not used.
 
 If not, which ones did it not accomplish
 
@@ -78,4 +78,4 @@ Objective: Creativity
 
 Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
 
-No, the piece did not use creative elements to good effect. The piece lacked good visuals and graphs and instead, lumped all of the statistics together in written form. While the author explained this well, she did not add many visuals which would've been useful to organize the facts and present them clearly to the reader for a better understanding of the article's message. Overall, I believe that the article was highly effective in explaining how the facts about health in the U.S. show that more adults need to exercise regularly, but it would have been even more eefective if more graphics were incorporated to tell the story. I would rate the effectiveness as a 2.
+No, the piece did not use creative elements to good effect. The piece lacked good visuals and graphs and instead, lumped all of the statistics together in written form. While the author explained this well, she did not add many visuals which would've been useful to organize the facts and present them clearly to the reader for a better understanding of the article's message. Overall, I believe that the article was highly effective in explaining how the facts about health in the U.S. show that more adults need to exercise regularly, but it would have been even more effective if more graphics were incorporated to tell the story. I would rate the effectiveness as a 3.
