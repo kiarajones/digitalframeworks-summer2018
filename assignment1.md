@@ -6,9 +6,13 @@ Link to article: https://www.cnn.com/2018/07/03/us/separated-families-countdown/
 Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations.
 
 I would rate this article as a 5 because the data was presented in a cohesive way that made the central message clear. In addition, the headline was straight forward and the viewer could easily decipher the message immediately. 
+
 What was it?
+
 The reporter is trying to tell readers that the government has not released definitive statistics on the number of immigrants and children that are in custody on the border. He is examining the numbers that have been released thus far and is trting to determine if they are accurate.
+
 Was it in the headline?
+
 Yes, it is included in the headline which helps to make the message even more clear. The story begins with the main point and uses facts, statistics and data throughout the article to prove the author's central point.
 
 Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent
