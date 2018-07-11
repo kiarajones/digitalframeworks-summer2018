@@ -1,4 +1,4 @@
-Kiara Brantley-jones
+Kiara Brantley-Jones
 
 Objective: Clarity and accuracy 
 
