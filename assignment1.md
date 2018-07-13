@@ -3,7 +3,7 @@ Due Date: July 11
 
 Critique #1
 
-Objective: Clarity and accuracy
+### Objective: Clarity and accuracy
 
 Link to article: https://www.cnn.com/2018/07/03/us/separated-families-countdown/index.html
 
@@ -51,7 +51,7 @@ Did they explain everything that needed explaining?
 
 Yes, the author explained all of the numbers well and she did an excellent job of comparing statistics to see which ones were accurate and which ones were not. She also explained that some information may not be accurate beforehand.
 
-Objective: Quality
+### Objective: Quality
 
 Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
 
@@ -70,7 +70,7 @@ If not, which ones did it not accomplish
 
 In my opinion, it accomplished all of the goals.
 
-Objective: Type and color (if piece includes graphics)
+### Objective: Type and color 
 
 Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
 
@@ -78,7 +78,7 @@ The author used the appropriate font and colors for this type of article. In par
 
 Type (1-5) I would rate the type with a 5 because it presents the information in a clear and cohesive manner. One of the highlights of this article is when the font is enlarged and the color is changed from black to red for the following fact: "It's been 15 days since the government has said exactly how many separated kids are in custody". 
 
-Objective: Creativity
+### Objective: Creativity
 
 Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
 
