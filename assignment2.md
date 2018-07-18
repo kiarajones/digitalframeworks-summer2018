@@ -12,6 +12,11 @@ purchase tickets in the first place.
 
 I would collect the data by searching the website of individual airlines to see their ticket prices for flights. I would look at their monthly calendars for ticket prices and determine what the average price is. I would also research the number of tickets sold around major holidays and which destinations are most popular by contacting the airline and asking where I can access this data for previous flights by telling them that this is for research purposes. Lastly, I will conduct a search using Pew Research Center's polls to see what time of year most Americans prefer to fly and which airlines they prefer to use.
 
-Airline  | AVG. Price| Top Destination | Ranking |Customer Rating| 
--------- | --------- | ---- | --------------- | --------| -------------- |
-Southwest| tk        | tk | tk | tk | tk | tk
+Airline  | AVG. Price| Top Destination | Ranking by customers           | On-Time Arrrivals | Amenities on flight |    
+|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
+Southwest| $147      | Austin, Texas   |  #3 (American Domestic Flights)| 87.17%            |        Yes/Full     | 
+ 
+Sources:
+* https://www.statista.com/statistics/540661/us-low-cost-carriers-average-ticket-price/
+* https://www.newsday.com/travel/top-9-southwest-airlines-destinations-1.2047280
+* http://time.com/money/5167479/largest-us-airlines-2018/
