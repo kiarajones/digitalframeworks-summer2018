@@ -1,6 +1,6 @@
 Kiara Brantley-Jones
 
-Purchasing a plane ticket has become increasingly expensive and many factors play into buying a ticket at the right time. These factors include different airline companies, timing of purchase based on anticipated arrival date and the distance of the route. I am curious as to why certain airlines charge more than others and how does that connect to a customer's willngness to buy a ticket from one airline company versus another. I plan to compare airline prices and airline companies that have the highest sales or greatest number of purchased tickets per year. I will collect data from the year 2016-2017. 
+Purchasing a plane ticket has become increasingly expensive and many factors play into buying a ticket at the right time. These factors include different airline companies, timing of purchase based on anticipated arrival date and the distance of the route. I am curious as to why certain airlines charge more than others and how does that connect to a customer's willngness to buy a ticket from one airline company versus another. I plan to compare airline prices and airline companies that have the highest sales or greatest number of purchased tickets per year. I will collect data from the year 2017. 
 
 Here are the features I'll be collecting and why: 
 * The number of tickets purchased in 2017 for three major airlines to collect data on how many each company sells. 
