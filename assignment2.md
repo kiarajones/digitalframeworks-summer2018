@@ -12,18 +12,18 @@ purchase tickets in the first place.
 
 I would collect the data by searching the website of individual airlines to see their ticket prices for flights. I would look at their monthly calendars for ticket prices and determine what the average price is. I would also research the number of tickets sold around major holidays and which destinations are most popular by contacting the airline and asking where I can access this data for previous flights by telling them that this is for research purposes. Lastly, I will conduct a search using Pew Research Center's polls to see what time of year most Americans prefer to fly and which airlines they prefer to use.
 
-Airline  | AVG. Price| Top Destination | Ranking by customers           | On-Time Arrrivals | Amenities on flight |    
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-Southwest| $147      | Austin, Texas   |  #3 (American Domestic Flights)| 87.17%            |        Yes/Full     |
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-Delta      $
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-American
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-Jet Blue
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-Spirit     $248                           #7                              90.47%               No/ Pay per Item
-|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
+Airline  | AVG. Price| | Ranking by customers | On-Time Arrrivals | Amenities on flight |    
+|--------| --------- | -----------------------| ------------------| --------------------| 
+Southwest| $147      | #3                     | 87.17%            |        Yes/Full     |
+|--------| --------- |  ----------------------| ------------------| --------------------|
+Delta    | $413      | #5                     | 90.72%            |       Yes/Full
+|--------| --------- | -----------------------| ------------------| --------------------|
+American | $398      |  #8                    |      87.41%       |      Yes/Full
+|--------| --------- | -----------------------| ------------------| --------------------|
+Jet Blue |  $414     |  #4                    |  86.34%           |     Yes/Full
+|--------| --------- |------------------------| ------------------| --------------------|
+Spirit   |  $248     |  #7                    |     90.47%        |    No/ Pay per Item
+|--------| --------- | -----------------------| ------------------| --------------------|
  
 Sources:
 * https://www.statista.com/statistics/540661/us-low-cost-carriers-average-ticket-price/
