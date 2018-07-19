@@ -14,7 +14,12 @@ I would collect the data by searching the website of individual airlines to see 
 
 Airline  | AVG. Price| Top Destination | Ranking by customers           | On-Time Arrrivals | Amenities on flight |    
 |--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
-Southwest| $147      | Austin, Texas   |  #3 (American Domestic Flights)| 87.17%            |        Yes/Full     | 
+Southwest| $147      | Austin, Texas   |  #3 (American Domestic Flights)| 87.17%            |        Yes/Full     |
+|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
+Delta
+|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
+United
+|--------| --------- | ----------------| -------------------------------| ------------------| --------------------|
  
 Sources:
 * https://www.statista.com/statistics/540661/us-low-cost-carriers-average-ticket-price/
