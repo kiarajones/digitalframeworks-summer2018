@@ -12,7 +12,7 @@ purchase tickets in the first place.
 
 I would collect the data by searching the website of individual airlines to see their ticket prices for flights. I would look at their monthly calendars for ticket prices and determine what the average price is. I would also research the number of tickets sold around major holidays and which destinations are most popular by contacting the airline and asking where I can access this data for previous flights by telling them that this is for research purposes. Lastly, I will conduct a search using Pew Research Center's polls to see what time of year most Americans prefer to fly and which airlines they prefer to use.
 
-Airline  | AVG. Price| | Ranking by customers | On-Time Arrrivals | Amenities on flight |    
+Airline  | AVG. Price|   Ranking by customers | On-Time Arrrivals | Amenities on flight |    
 |--------| --------- | -----------------------| ------------------| --------------------| 
 Southwest| $147      | #3                     | 87.17%            |        Yes/Full     |
 |--------| --------- |  ----------------------| ------------------| --------------------|
