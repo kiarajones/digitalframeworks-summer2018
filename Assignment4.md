@@ -15,9 +15,11 @@ Live sources:
 - A customer service representative for an airline company to discuss how the company operates and how customers are treated.
 - A pilot or flight technician to explain how airplanes operate on a mechanical level and if this has an effect timeliness (For example. If flights are delayed due to mechanical errors that need to be fixed)
 - A customer (rating their experience with a particular airline or choosing their favorite and why)
+
 Visualize Data
 - Bar charts with bag icons representing number of lost bags (annually)
 - Line graph for customer satisfaction ranking by customers
 - Map with pins on it to indicate top destinations for flights and color differences that represent different airline companies
+
 Why it is Newsworthy:
 This research is important because it assesses a mode of transportation that people use frequently and it shows how various prices do or do not affect people’s willingness to buy flight tickets. It also can be used to assess efficiency in transportation and furthermore, how airline companies can improve to make customers happier with their experiences on flights.
