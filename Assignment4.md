@@ -27,6 +27,6 @@ Visualize Data
 * Map with pins on it to indicate top destinations for flights and color differences that represent different airline companies
 
 
-Why it is Newsworthy:
+Why it is Newsworthy/Timely:
 
-This research is important because it assesses a mode of transportation that people use frequently and it shows how various prices do or do not affect people’s willingness to buy flight tickets. It also can be used to assess efficiency in transportation and furthermore, how airline companies can improve to make customers happier with their experiences on flights.
+This research is important because it assesses a mode of transportation that people use frequently and it shows how various prices do or do not affect people’s willingness to buy flight tickets. It also can be used to assess efficiency in transportation and furthermore, how airline companies can improve to make customers happier with their experiences on flights. In addition, this information is timely because several airline companies have been under attack for poor cutomer service and ineffective bag check systems and some companies ahve responded to that criticism with changes. This research reveals why some companies may be disliked by passengers and it could possibly provide a solution to help improve problems within the airline industry.
