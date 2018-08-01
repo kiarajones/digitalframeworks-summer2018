@@ -1,4 +1,5 @@
 Analyzing Airline Ticket Prices and Popularity
+
 Kiara Brantley-Jones
 
 Data Sources: My data sources will primarily come from internet research and information gained from Pew Research Center polls and reports from airline companies. I will also seek information regarding airline statistics from official government websites/databases and possibly reports from the Department of Commerce and Transportation to see if they have any information that would be relevant to my story. I will use the following sources:
