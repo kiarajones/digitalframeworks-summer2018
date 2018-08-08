@@ -38,6 +38,9 @@ numerically starting from the lowest number, 0, to the highest number, 2834451, 
 * I created a filter for column D, Domestic vs. International flights, because I needed to group the like groups together in order to 
 determine if it had any affecton the number of passengers per flight.
 
+* I re-arranged the date column to place the times of day in order, so that I could analyze how time of departure or arrival 
+affects the number of passengers on the flights.
+
 Sample Headline:
 
 Tired of long lines at the aiports in LA? Late-night flights may be your solution
