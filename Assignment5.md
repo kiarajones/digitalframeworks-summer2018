@@ -1,5 +1,5 @@
 Kiara Brantley-Jones
-Interview A Dataset
+Interview A Dataset: LA Flights
 
 Link to Dataset Original: https://docs.google.com/spreadsheets/d/1C_CKdb5XROyNnHRqlGIxnIwOWrF2DgiuPL6r_iJriQc/edit?usp=sharing
 
@@ -22,8 +22,7 @@ and the morning flights have an overall higher number of passengers than the lat
 
 * Do domestic or international flights have more passengers compared to one another?
 
-Based on the information collected from the dataset, domestic flights have higher numbers of passengers than international flights.
-Specifically, domestic flights with scheduled carriers thatdepart in the morning around 8am.
+Based on the information collected from the dataset, domestic flights have higher numbers of passengers than international flights. Specifically, domestic flights with scheduled carriers that depart in the morning around 8am have the highest number of passengers.
 
 Steps taken to clean and analyze the data:
 
@@ -34,12 +33,15 @@ to clearly analyze the data.
 and it explains the dataset better. In addition, it's a more inclusive title thatn the previous one.
 
 * I created a filter for column F, Passenger Count. I did this because I used a formula to revise the list so, that it was ordered
-numerically starting from the lowest number, 0, to the highest number, 2834451, in the graph. I also needed to reorganize this column to 
-better analyze how the number of passengers does or does not affect other variables in the graph.
+numerically starting from the lowest number, 0, to the highest number, 2834451, in the graph. I also needed to reorganize this column to better analyze how the number of passengers does or does not affect other variables in the graph.
 
 * I created a filter for column D, Domestic vs. International flights, because I needed to group the like groups together in order to 
 determine if it had any affecton the number of passengers per flight.
 
+Sample Headline:
 
+Tired of long lines at the aiports in LA? Late-night flights may be your solution
+
+Airline data shows that customers should plan ahead if they're flying out of LA in the morning time. The airports are much busier in the morning around 8am rather than at night because more people opt to fly out earlier. If you want to avoid long lines and heavy traffic, then flying out on late-night flights would be the better option for you. Domestics flights leaving out of LA have the most passengers while late-night flights have much lower numbers of people. Instead of booking early flights, studies show that customers may fare better by choosing to fly out at night to avoid missing your flight or struggling with the hassle of waiting in long check-in and security lines. The next time you're ready to plan your vacation or work trip, think about flying out of LA airports at night where you can avoid busy periods and get some shut eye while flying to your next stop. 
 
 
