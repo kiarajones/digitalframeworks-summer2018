@@ -1,4 +1,5 @@
 Kiara Brantley-Jones
+
 Vermont Democratic Election
 
 I found that in Vermont, the Democratic Party has received its largest contribution amounts from donors registered as either self-employed 
