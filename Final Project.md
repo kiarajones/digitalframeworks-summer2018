@@ -21,7 +21,7 @@ A recent debate has sparked about whether airline companies should inform custom
 The standard fee for Spirit Airlines is called the “Bare Fare” rate which includes the following amenities:
 * One personal item smaller than 18" x 14" x 8"
 * Assigned seating at check-in
-*Free boarding pass (when printed at home before arriving to the airport)
+* Free boarding pass (when printed at home before arriving to the airport)
 
 Spirit has additional costs that vary based on time of purchase for a basic fare ticket and a difference in route. These extra fees include:
 * Carry-On Bags: Starting at $35 
